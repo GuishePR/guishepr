@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hola, soy Guillermo Perez Ruiz
 
-<!--
-**GuishePR/guishepr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soy de Argentina
 
-Here are some ideas to get you started:
+Estoy empezando en el mundo de la programación con el **Bootcamp Undefined Shell**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Comandos:
+|COMANDOS|DESCRIPCIÓN|
+|-----|-----|
+|mkdir|Crear una nueva carpeta|
+|cd|Cambiar de ruta|
+|pwd|Conocer la ruta actual|
+|ls|Listar archivos y carpetas de la ruta actual|
+
+# Comandos alias:
+|ALIAS|COMANDOS|DESCRIPCIÓN|
+|---|---|---|
+|cl|clear|Limpiar la terminal|
