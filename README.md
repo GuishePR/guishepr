@@ -5,14 +5,14 @@
 Estoy empezando en el mundo de la programación con el **Bootcamp Undefined Shell**
 
 # Comandos:
-|COMANDOS|DESCRIPCIÓN|
-|-----|-----|
-|mkdir|Crear una nueva carpeta|
-|cd|Cambiar de ruta|
-|pwd|Conocer la ruta actual|
-|ls|Listar archivos y carpetas de la ruta actual|
+| COMANDOS | DESCRIPCIÓN             |
+|----------|-------------------------|
+| mkdir    | Crear una nueva carpeta |
+| cd       | Cambiar de ruta         |
+| pwd      | Conocer la ruta actual  |
+| ls       | Listar contenido        |
 
 # Comandos alias:
-|ALIAS|COMANDOS|DESCRIPCIÓN|
-|---|---|---|
-|cl|clear|Limpiar la terminal|
+| ALIAS | COMANDOS | DESCRIPCIÓN         |
+|-------|----------|---------------------|
+| cl    | clear    | Limpiar la terminal |
